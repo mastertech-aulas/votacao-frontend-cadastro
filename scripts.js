@@ -1,4 +1,4 @@
-const cadastroApiUrl = 'http://localhost:8080';
+const cadastroApiUrl = 'http://18.230.157.2:8080';
 
 function cadastrar(){
     const inputs = document.querySelectorAll('input');
